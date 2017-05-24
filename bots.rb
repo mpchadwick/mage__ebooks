@@ -18,7 +18,7 @@ class MyBot < Ebooks::Bot
   end
 
   def on_startup
-    model = Ebooks::Model.load("model/magento.model")
+    model = Ebooks::Model.load("model/magento-dev-docs.model")
     tweet(model.make_statement(140))
     scheduler.every '24h' do
       # Tweet something every 24 hours
