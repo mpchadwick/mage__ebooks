@@ -20,8 +20,8 @@ class MyBot < Ebooks::Bot
   def on_startup
     scheduler.every '24h' do
       # Tweet something every 24 hours
-      # See https://github.com/jmettraux/rufus-scheduler
-      # tweet("hi")
+      model = Ebooks::Model.load("model/0xabad1dea.model")
+      tweet(model.make_statement(140))
       # pictweet("hi", "cuteselfie.jpg")
     end
   end
