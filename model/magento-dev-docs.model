@@ -1,0 +1,475 @@
+{	:tokens[
+I"	User:ETI"Experience;TI"Designer;TI"-;TI"Magento;TI"Commerce;TI"Anyone;TI"	else;TI"experiencing;TI"an;TI"issue?;TI"(Saturday;TI",;TI"
+3/25,;TI"10;TI"	a.m.;TI"US;TI"Central);TI"New;TI"tutorial;TI"on;TI"
+using;TI"	REST;TI"	APIs;TI"to;TI"	take;TI"
+order;TI"through;TI"	each;TI"	step;TI"of;TI"its;TI"lifecycle!;TI"#realmagento;TI"	Free;TI"#Magento2;TI"training;TI"videos;TI"are;TI"now;TI"DevDocs;TI"for;TI"	your;TI"enjoyment!;TI"	Tell;TI"us;TI"	what;TI"you;TI"think!;TI"	Want;TI"import;TI"EE;TI"	code;TI"	into;TI"Enterprise;TI"
+Cloud;TI"Edition?;TI"Here's;TI"Reminder;TI"we;TI"update;TI"What's;TI"Devdocs;TI"Monday.;TI"
+Today;TI"there's;TI"a;TI"larger;TI"	than;TI"
+usual;TI"#;TI"additions.;TI"
+Check;TI"it;TI"	out!;TI"DevBox:;TI"use;TI"PhPStorm;TI"Xdebug;TI"and;TI"PHPUnit.;TI"Please;TI"	send;TI"feedback:;TI"Thanks;TI"couldn't;TI"	have;TI"gotten;TI"	this;TI"far;TI"without;TI"	you.;TI"continue;TI"	help;TI"improve.;TI"Thanks!;TI"feedback!;TI"setting;TI"up;TI"custom;TI"	cron;TI"	jobs;TI"groups:;TI"To;TI"repeat;TI"that's;TI"	$200;TI"
+bucks;TI"dollareenies;TI"should;TI"
+spend;TI"no;TI"	more;TI"5;TI"minutes;TI"
+doing;TI"it.;TI"Not;TI"	bad!;TI"	Help;TI"	make;TI"devdocs;TI"better!;TI"	Take;TI"
+reorg;TI"our;TI"17;TI"guides;TI"AND;TI"	earn;TI"chance;TI"win;TI"
+$200:;TI"things;TI"easier;TI"	find;TI"	home;TI"
+pages;TI"	for:;TI"system;TI"requirements:;TI"	tech;TI"bulletins:;TI"Updates;TI"documentation.;TI"Release;TI"Notes:;TI"how;TI"upgrade:;TI"Ed.;TI"account;TI"
+owner;TI"tasks:;TI"Dev;TI"
+setup;TI"tutorial:;TI"
+We've;TI"changed;TI"static;TI"
+files;TI"deployed;TI"in;TI"
+2.1.1;TI"
+later;TI"	read;TI"all;TI"
+about;TI"it!;TI"
+Added;TI"article;TI"filtering;TI"responses.;TI"out;TI"at;TI"
+Hello;TI"World!;TI"We;TI"released;TI"new;TI"the;TI"basics;TI"creating;TI"simple;TI"	page;TI"Admin:;TI"	More;TI"	docs;TI"
+hits!;TI"	just;TI"improved;TI"search;TI"functionality!;TI"Now;TI"	with;TI"	100%;TI"relevant;TI"results.;TI"Developers!;TI"change;TI"webdriver;TI"	test;TI"	used;TI"Selenium;TI"or;TI"another;TI"
+tool?;TI"
+Heads;TI"developers!;TI"updated;TI"coding;TI"standards;TI"doc;TI"re;TI"
+class;TI"	name;TI"resolution.;TI"
+Cache;TI"	like;TI"pro;TI"#Magento2!;TI"	Just;TI"
+added;TI"topics;TI"public;TI"private;TI"caching;TI"	(aka;TI"	hole;TI"punching):;TI"Use;TI"functional;TI"framework;TI"suites:;TI"accelerate;TI"execution:;TI"
+topic;TI"logging;TI"let;TI"	know;TI"think:;TI"database;TI"profiler:;TI"And;TI"oh;TI"BTW;TI"has;TI"2.1;TI"Let;TI"
+think;TI"Vagrant;TI"README:;TI"Required;TI"Windows;TI"because;TI"symlinks;TI"	now.;TI"	Here;TI"go;TI"changing;TI"
+rules;TI"again!;TI"All;TI"
+clear;TI"	open;TI"	pull;TI"requests;TI"devdocs.;TI"	Note;TI"develop;TI"branch;;TI"	also;TI"if;TI"	MUST;TI"Vagrant.;TI"(1;TI"2);TI"repository;TI"
+until;TI"further;TI"notice;TI"(hopefully;TI"within;TI"24;TI"hours).;TI"
+We're;TI"renaming;TI"branches;TI"
+won't;TI"be;TI"	able;TI"
+merge;TI"PR;TI"
+after;TI"	Wed.;TI"expect;TI"business;TI"
+again;TI"	6/23;TI"(2;TI"Attention;TI"everybody!;TI"If;TI"you're;TI"working;TI"request;TI"	(PR);TI"please;TI"submit;TI"by;TI"8;TI"Central;TI"	time;TI"Wed;TI"
+6/23.;TI"	What;TI"	need;TI"create;TI"events;TI"observers:;TI"Workaround;TI"sample;TI"	data;TI"upgrade;TI"	RCx:;TI"works.;TI"
+users;TI"
+split;TI"DB;TI"performance;TI"solution:;TI"databases;TI"manually:;TI"Something;TI"sticky;TI"way;TI"comes.;TI"	site;TI""sticky";TI"top;TI"navigation;TI"	bar.;TI"(Hint:;TI"scroll;TI"
+down);TI"The;TI"
+issue;TI"is;TI"resolved.;TI"#magento2;TI"
+there;TI"	It's;TI"reported;TI"waiting;TI"ETA;TI"Verified;TI"
+Build;TI"locally;TI"Jekyll;TI"w/;TI"container.;TI"detail;TI"	file;TI"ownership;TI"permissions;TI"dev;TI"
+prod:;TI"	With;TI"2.0.6,;TI"
+perms;TI"changed.;TI"No;TI"longer;TI"do;TI"set;TI"	them;TI"control:;TI"	back;TI"up!;TI"	down;TI"temporarily.;TI"patient;TI"
+while;TI"	work;TI"solution.;TI"devdocs!;TI"	last;TI"modified;TI"	date;TI"
+every;TI"displays;TI"
+right;TI"
+under;TI"header.;TI"Enjoy!;TI"#RealMagento;TI"builders.;TI"require;TI"	Gem;;TI"run;TI"'bundle;TI"install';TI"get;TI"before;TI"running;TI"Jekyll.;TI"See;TI"README.md;TI"as;TI"reminder;TI"yes;TI"too;TI"can;TI"shouted;TI"mentioned;TI"
+here:;TI"	Send;TI"
+ideas;TI"PRs;TI"benefit;TI"everyone.;TI"For;TI"details;TI"	unit;TI"testing:;TI"Set;TI"multiple;TI"websites;TI"nginx:;TI"Try;TI"How;TI"command;TI"
+line:;TI"users.;TI"
+avoid;TI"bug;TI"libxml;TI"PHP;TI"
+5.5.x;TI"
+where;TI"x;TI"=;TI"	22+.;TI"5.6;TI"7;TI"
+don't;TI"issue.;TI"testing;TI"tutorial.;TI"
+test?;TI"Go;TI"	Does;TI"
+store;TI"accept;TI"PayPal?;TI"You;TI"
+this:;TI"
+Redis;TI"configuration:;TI"
+cache;TI"segments.;TI"
+2.0.x;TI"	only;TI"not;TI"session!;TI"you've;TI"	ever;TI"	seen;TI"503;TI"(Backend;TI"
+Fetch;TI"Failed);TI"Varnish;TI"#Magento2,;TI"
+check;TI"	out:;TI"	Data;TI"Migration;TI"	Tool;TI"	both;TI"CE;TI"	from;TI"GitHub;TI"	Read;TI"Belated;TI"	that;TI"bulletin;TI"solutions;TI"issue:;TI"At;TI"6;TI"updated.;TI"2.0;TI"branch;TI"	5:50;TI"	p.m.;TI"	Time;TI"
+being;TI"branch.;TI"while.;TI"Contact;TI"directly;TI"
+along;TI"
+other;TI"there...;TI"Something's;TI"GitHub.;TI"	bear;TI"us.;TI"Trying;TI"
+apply;TI"
+patch;TI"getting;TI""Sorry;TI"
+can't;TI"action;TI"
+now"?;TI"System;TI"Config;TI"
+enter;TI"	auth;TI"	keys;TI"easily;TI"EE:;TI"Change;TI"
+site:;TI"replacing;TI"	2.0.;TI"	Have;TI"merge/close;TI"prior;;TI"
+yours;TI"was;TI"closed;TI"wrongly;TI"Thorough;TI"	i18n;TI"instructions;TI"including;TI"examples:;TI"UI;TI"element?;TI"Add;TI"CLI;TI"commands;TI"component:;TI"Testing;TI"Framework:;TI"
+Would;TI"	some;TI"	eyes;TI"deploy;TI"production:;TI"	well;TI"	does;TI"
+match;TI"	real;TI"world?;TI"	ways;TI"install;TI"#Magento2:;TI"
+data:;TI"
+didja;TI"released?;TI"memcache/d;TI"session;TI"storage.;TI"
+we're;TI"recommending;TI"	over;TI"locking.;TI"server;TI"separate;TI"webnode;TI"	must;TI"connection;TI"between;TI"
+them:;TI"Framework;TI"
+usage;TI"blocks;TI"entities.;TI"Overview;TI"security;TI"features:;TI"Security;TI"big;TI"priority;TI"
+we'll;TI"	keep;TI"
+date.;TI"see;TI"answer;TI"
+post.;TI"Updated;TI"instructions:;TI"installed;TI"spread;TI"
+word!;TI"contributor;TI"sign-up;TI"
+sheet;TI"	sign;TI"Do;TI"I;TI"(tutorial-style);TI"articles;TI"searchable!;TI"	out.;TI"API;TI"documentation;TI"M2;TI"	been;TI"posted.;TI"	link;TI"how-to;TI"information:;TI"	give;TI"feedback;TI"suggest;TI"topics!;TI"
+We'll;TI"mention;TI"
+name!;TI"installation;TI"
+quick;TI"reference;TI"style:;TI"helps.;TI"continuing;TI"...;TI"realize;TI"
+wrong;TI"place.;TI"add;TI"	"How;TI"I?";TI"	near;TI"future;TI"	Ever;TI"wondered;TI"
+which;TI"directories;TI"
+when?;TI"	way!;TI"continued;TI"	Glad;TI"
+hear.;TI"	here;TI"improve;TI"template;TI"prevent;TI"cross-site;TI"scripting;TI"(XSS):;TI"	Gde!;TI"fixtures;TI"&;TI"fixture;TI"repos:;TI"Calling;TI"developers...;TI"enable;TI"components;TI"	core;TI"software:;TI"switch;TI"developer;TI"prod'n;TI"
+modes;TI"	sets;TI"generates;TI"	etc.;TI"Announcing;TI"Library;TI"Components;TI"
+guide;TI"everything;TI"
+grids;TI"
+forms;TI"so;TI"on:;TI"Developer;TI"
+Guide;TI"Extension;TI"	many;TI"updates:;TI"	devs;TI"created;TI"Composer;TI"project;TI"	8/13;TI"
+8/17,;TI"cache:;TI"confusion;TI"#Magento1;TI"clearly;TI"labeled;TI"pointer;TI"	API:;TI"JavaScript;TI"JS;TI"	info;TI"
+moved;TI"own;TI"	look;TI"role-based;TI"'composer;TI"create-project':;TI"Display;TI"random;TI"
+Admin;TI"	URI:;TI"feature;TI"creates;TI"URI;TI"string;TI"protect;TI"ag;TI"exploits.;TI"
+Never;TI"'admin';TI"'backend';TI"up:;TI"maintenance;TI"
+today;TI"(7/21);TI"Chicago;TI"(Central;TI"US);TI"
+time.;TI"Temporary;TI"	404s;TI"likely.;TI"	Keep;TI"posted;TI"1.x;TI"
+devs:;TI"8-part;TI""Magento;TI"Developers";TI"series;TI"	Alan;TI"
+Storm;TI"available;TI"B/c;TI"{{baseurl}},;TI"thanks;TI"again!:;TI"
+*NEW*;TI"(at;TI"
+least;TI"beginning):;TI"removed;TI"references;TI"unused;TI"types:;TI"Reorganized;TI"Architecture;TI"introduction:;TI"transactional;TI"
+email;TI"templates;TI"guide:;TI"Merchant;TI"	Beta;TI"	This;TI"shd;TI"merchs;TI"	SIs.;TI"Follow;TI"progress;TI"migration;TI"uninstallation;TI"themes;TI"language;TI"packages:;TI"module;TI"command:;TI"bootstrap;TI"
+vars:;TI"MAGE_DIR;TI"default;TI"	dirs;TI"
+URIs:;TI"technology;TI"stack:;TI"planning;TI"improvements;TI"future.;TI"Pls;TI"
+help!;TI"	SOAP;TI"reference:;TI"Update;TI"installation:;TI"Sample;TI"module;;TI"config.php;TI"	lost;TI"initial;TI"	Seek;TI"
+shall;TI"
+find!;TI"
+cont:;TI"config;TI"
+first;TI"
+time:;TI"
+it!!!;TI"0.74-beta10;TI"1;TI"	tool;TI"documented;TI"comments!;TI"step-by-step;TI"RWD;TI"topics:;TI"CSS;TI"customizing;TI"
+theme;TI"topic:;TI"Mobile;TI"responsive;TI"	RWD:;TI"Translate;TI"
+xlate;TI"dictionaries;TI"	lang;TI"
+packs;TI"configuration;TI"console;TI"documentation:;TI"
+based;TI"Symfony;TI"	one!;TI"packaging;TI"extension;TI"wonders;TI"composer.json:;TI"Question;TI"
+terms;TI""single-tenant";TI""multi-tenant";TI"	you?;TI"	We'd;TI"update.;TI"Welcome;TI"1.14.2;TI"MagentoDevDocs;TI"em;TI"coming!;TI"
+'Edit;TI"friend;TI"yours!;TI"..;TI"one;TI"unable;TI"now.Tell;TI"	ones;TI"	want;TI"via;TI"any;TI"Curious;TI"backward;TI"compatibility;TI"policy?;TI"
+more!;TI"update:;TI"
+fonts;TI"theme!;TI"	Step;TI"
+DevRC;TI"Why;TI"uninstall;TI"reinstall;TI"beta11;TI"release:;TI"
+build;TI"yourself;TI"Details:;TI"
+wants;TI"input!;TI"
+Start;TI"checking;TI"placeholder;TI"announces;TI"developers:;TI"Bored?;TI"Listless?;TI"
+plans;TI"weekend?;TI"
+Write;TI"#magedevdocs!;TI"
+Click;TI"GitHub';TI"(noob);TI"got;TI"package;TI"instead;TI"two;TI"2;TI"easier.;TI"It;TI"requires;TI"	two.;TI"welcome;TI"
+tweet;TI"documentation!;TI"Monday;TI"	will;TI"addition;TI"UX;TI"patterns;TI"library;TI"	Done;TI"
+great;TI"
+idea!;TI"	(Not;TI"	sure;TI"why;TI"didn't;TI"haha!);TI"That's;TI"	hear;TI"!;TI"Yes;TI"#energetic;TI"#positive;TI"
+power;TI"	t...;TI"contribution;TI"rendering;TI"category;TI"attributes;TI"Components!!;TI"Though;TI"integrations;TI"redirect;TI"additional;TI"actions;TI"redirects;TI"handling;TI"responses;TI"added.;TI"t;TI"
+suits;TI"payments;TI"external;TI"gateway.;TI"Nothing;TI"wrong.;TI"	edit;TI"content;TI"<devdocs;TI"	base;TI";dir>/_includes/install/sampledata/sample-data-clone.md;TI"
+quite;TI"asking.;TI"Can;TI"explain;TI"	"old;TI"PayPal;TI"standard"?;TI"me;TI"I'd;TI"trying;TI"again.;TI"Retweeting;TI"
+case.;TI"	That;TI"
+case;;TI"default.;TI"Guide:;TI"Fixed!;TI"passed;TI"
+info.;TI"Thanks.;TI"control;TI"but;TI"	pass;TI"
+going;TI"pointing;TI"Our;TI"understanding;TI"extend;TI"either;TI"
+Blank;TI"
+Luma.;TI"	Luma;TI"designed;TI"demonstration;TI"parent;TI"scheme;TI"
+fine.;TI"Noted.;TI"thanks!;TI"
+looks;TI"
+look!;TI"us;;TI"excited;TI"	roll;TI"input.;TI"
+know.;TI"
+thing;TI"talking;TI"about;;TI"M1x;TI"
+Notes;TI"	9652;TI"
+tried;TI"DevBox?;TI"
+Where;TI"
+stuck;TI"
+local;TI"install?;TI"	Will;TI"general;TI"sections.xml;TI"radar;;TI"	*is*;TI"
+short;TI"	list;TI"there.;TI"	it's;TI"
+list.;TI"
+Can't;TI"announce;TI"	when;TI"
+done.;TI"failing.;TI"dopamine...;TI"	wins;TI"
+might;TI"quick?;TI"gripes;TI"complaints;TI"accolates!;TI"reason;TI"
+isn't;TI"supported;TI"Docker's;TI"requirement;TI"Hyper-V;TI"apparently;TI"believe;TI"although;TI"I'm;TI"	why.;TI"	I'll;TI"ask;TI"
+heard;TI"morning;TI"
+seems;TI"resolved;TI"itself.;TI"
+Sorry;TI"did;TI"	miss;TI"
+this?;TI"asking;TI"	repo;TI"
+means;TI"PR.;TI"assumption;TI"
+it'll;TI"addressed;TI"
+2.1.5;TI"release;TI"Gorshk!;TI"robust;TI"helpful;TI"	Sure;TI"always;TI"
+that!;TI"
+help?;TI"question.;TI"
+Right;TI"
+what?;TI"	hard;TI"developers';TI"
+lives;TI"
+fixed;TI"correct;TI"
+page.;TI"
+Great;TI"Absolutely;TI"listed;TI"outline;TI"And...;TI"
+maybe;TI"community-driven;TI"Doc;TI"Sprint;TI"soon?!?;TI"
+now!!;TI";-);TI"saw;TI"efforts;TI"
+still;TI"
+Comps;TI"us?;TI"	glad;TI"
+found;TI"issues;TI"
+Fixed;TI"list!!;TI"old;TI"
+page;;TI"delete;TI"provide;TI"details?;TI"
+you'd;TI"haven't;TI"	done;TI"already;TI"
+would;TI"	mind;TI"stating;TI"problem;TI"
+solve;TI"prioritize;TI"it?;TI"checking.;TI"component;TI"sparse;TI"moment;;TI"improving;TI"Meanwhile;TI"<cont>;TI"	Look;TI"helps:;TI"
+sorry;TI"familiar;TI"information.;TI"writer;TI"responsible;TI"advice.;TI"opposite.;TI"documentation;;TI"up-to-date.;TI"placement;TI"
+flow.;TI"products;TI"You're;TI"	very;TI"welcome!;TI"
+like.;TI"
+hear!;TI"But;TI"	fall;TI"short.;TI"
+thank;TI"	YOU!;TI"assigned;TI"merged;TI"
+soon.;TI"There's;TI"context;TI"internal;TI"track.;TI"document;TI"	kind;TI"thing.;TI"sending;TI"OPcache;TI"settings;TI"
+track;TI"Thanks!.;TI"settings:;TI"troubleshooting:;TI"	Love;TI"money?;TI";);TI"	love;TI"
+ya'll;TI"
+back.;TI"opcache.ini;TI"CentOS;TI"Did;TI"modify;TI"/etc/php.d/opcache.ini?;TI"say;TI"=1,;TI"little;TI"nervous...;TI"	impl;TI"Swagger;TI"
+allow;TI"	deep;TI"links.;TI"Addressing;TI"nav;TI"	2.2.;TI"
+begin;TI"dialogue.;TI"coming.;TI"elaborate?;TI"working?;TI"along.;TI"
+Sadly;TI"doesn't;TI"
+text.;TI"	tips;TI"optimize;TI"	box!;TI"
+tips!;TI"Changed;TI"think?;TI"confirm.;TI"fixed.;TI"notifying;TI"apologies;TI"error.;TI"	Only;TI"anonymous;TI"displayed.;TI"today.;TI"discussing;TI"
+this.;TI"referring;TI"installing;TI"patch?;TI"review;TI"underway;TI"albeit;TI"completion.;TI"OK;TI"header;TI"Clarify?;TI"includes;TI"it:;TI"	not:;TI"
+stump;TI"shouldn't;TI"subject;TI"covered;TI"
+look.;TI"Atlassian;TI"	wiki;TI"contains;TI"magentocommerce;TI"articles.;TI"contribute.;TI"
+Sweet;TI"indeed!;TI"
+slide;TI"thx;TI"contributors;;TI"
+ab...;TI"deeply;TI"enough;TI"	yet.;TI"	Some;TI"	show;TI"	full;TI"explanation;TI"syntax;TI"diagram.;TI"MAGETWO-58862;TI"investigate.;TI"In;TI"
+2.1.0;TI"2.1.1,;TI"<Stores->Configuration->Advanced->Admin->Security->Admin;TI"Session;TI"Lifetime;TI"detail?;TI"2.1.0,;TI"settable.;TI"bringing;TI"up.;TI"
+share;TI"
+learn;TI"response;TI"initially;TI"looked;TI"Braintree;TI"included;TI"Magento?;TI"of?;TI"double;TI"	From;TI"reworked;TI"
+ready;TI"yet;TI"Fixed.;TI"checker...;TI"promoting;TI"off;TI"	face;TI"earth.;TI"
+those;TI"KBs;TI"	Yes.;TI"knowledge;TI"pages.;TI"tracking;TI"
+these;TI"letting;TI"	HTTP;TI"protocol.;TI"showing;TI"	load;TI"balancer;TI"description;TI"thanks.;TI"	now?;TI"memory;TI"serves;TI"indicates;TI"	gets;TI"traffic;TI"Magento.;TI"Web;TI"carrier.;TI"	Page;TI"
+Happy;TI"(?);TI"convo.;TI"	True;TI"barely;TI"	Docs;TI"M1;;TI"rabidly;TI"better;TI"	M2!!;TI"closely;TI"Engineering;TI"case-based;TI"examples.;TI"report;TI"already.;TI"
+There;TI"long-open;TI"READMEs;TI"modules;TI"understand;TI"my;TI"pet;TI"peeves;TI"
+also.;TI"feedback.;TI"	good;TI"advice;TI"development;TI"assume;TI"recommendation;TI"production.;TI"directory;TI"	all?;TI"Correct;TI"updater;TI"
+repo.;TI"called;TI"composer;TI"create-project;TI"You'll;TI"generate;TI"installation.;TI"(7/23);TI"	Make;TI"openssl;TI"version;TI"supports;TI"TLS;TI"	1.1+;TI"update/cron.php;TI"
+2.0.7;TI"2.1.0.;TI"looking;TI"at?;TI"Is;TI"	for?;TI"try;TI"downloading;TI"archive;TI"instead?;TI"
+Other;TI"option;TI"	upgr;TI"yr;TI"
+opssl;TI"lib;TI"So;TI"experience;TI"bandwidth;TI"
+help.;TI"	Open;TI"	term;TI"workaround.;TI"
+OAuth;TI"	Java;TI"correct?;TI"
+that.;TI"corrected;TI"
+ASAP.;TI"
+2.0.8;TI"released.;TI"
+point;TI"
+page?;TI"	try.;TI"do?;TI"fix;TI"display;TI"returns;TI"
+snake;TI"either.;TI"
+cause;TI"return;TI"
+camel;TI"By;TI""live";TI"	mean;TI"webinar;TI"
+video;TI"
+demo?;TI"currently;TI"expertise;TI"anybody;TI"who;TI"
+does?;TI"
+"live;TI"demo"?;TI"Dunno.;TI"machine;TI"
+brand;TI"	new.;TI"
+agree;TI"network;TI"isolated;TI"network.;TI"convenient;TI"what's;TI"transient.;TI"	too.;TI"Reported;TI"something.;TI"points.;TI"
+speak;TI"owe;TI"transparency.;TI"current;TI"
+2.0.6;TI"rc1;TI"present.;TI"
+false;TI"notice.;TI"proper;TI"authorities.;TI"	Back;TI"Tracking;TI"MAGETWO-53124;TI"magento;TI"deploy:mode:set;TI"changes;TI"permissions.;TI"appreciate;TI"	it!!;TI"
+Shout;TI"fixing;TI"	CSS.;TI"He;TI"straightened;TI"annoying;TI"lists.;TI"noticed;TI"
+It'll;TI"several;TI"
+hours;TI"noticed.;TI"few;TI"Preliminary;TI"final.;TI"Hi;TI"answer.;TI"	hits;TI"testable;TI"
+code:;TI"integration;TI"awesome;TI"community!;TI"sorry.;TI"	idea;TI"
+NEVER;TI"production;TI"
+site.;TI"clarifying.;TI"research;TI"	area;TI"
+with.;TI"suppose;TI"
+major;TI"releases;TI"Changelog;TI"ppl;TI"download;TI"Checking;TI"
+have.;TI"Unfortunately;TI"probably;TI"
+case:;TI"Enabling;TI"opcode;TI"disabling;TI"xdebug;TI"start.;TI"	tune;TI"settings.;TI"Performance;TI"tuning;TI"complex;TI"knowing;TI"needs.;TI"
+brave;TI"aren't;TI"<g>;TI"	Hope;TI"	went;TI"
+well!;TI""If;TI"
+exits;TI"!libxml_disable_entity_loader;TI"	true;TI"	wont;TI"correctly;TI"	next;TI"start";TI"
+Don't;TI"understand.;TI"
+note.;TI"Awesome!;TI"excellent;TI"coming;TI"PP;TI"sandbox;TI"throwing;TI"errors;TI"	live;TI"
+work?;TI"
+tweak;TI"discuss;TI"internally.;TI"aware.;TI"
+guess;TI"merchants;TI"beating;TI"	door;TI"Ownership;TI"shared;TI"virtue;TI"
+group;TI"belong;TI"to.;TI"	Your;TI"question;TI"	user;TI"web;TI"as.;TI"
+user.;TI"Ordinary;TI"	owns;TI"system.;TI"No.;TI"updated?;TI"	mode;TI"Compilation;TI"occurs;TI"
+AFAIK;TI"cannot;TI"disabled.;TI"confuse;TI"
+more?;TI"compile;TI"classes;TI"switching;TI"generated.;TI"
+mode.;TI"
+case?;TI"handing;TI"My;TI"	.02:;TI"CC;TI"Updated:;TI"'database';TI"caches;TI"compression;TI"(oops!);TI"	<g>.;TI"	Max.;TI"CAN;TI"sessions;TI"	2.1,;TI"2.0.x.;TI"shortly.;TI"usually;TI"	runs;TI"ordinary;TI"system;;TI"granted;TI"different;TI"per;TI"following;TI""webserver;TI"setup"?;TI"confused;TI"about?;TI"along;;TI"U;TI"Twitter;TI"account?;TI"interacted;TI"
+them?;TI"updating;TI"
+here.;TI"options;TI"necessary;TI"compressed;TI"default.Details:;TI"
+else.;TI"	soon;TI"anything;TI"investigate;TI"documentation?;TI"
+since;TI"day;TI"1.;TI"possible;TI"interact;TI"Looking;TI"forward;TI"brainfart.;TI"suggestions;TI"Sorry!;TI"Fix;TI"	way.;TI"product;TI"2.0.0,;TI"specified;TI"magento/framework;TI"100.0.0.4.;TI"Great!;TI"helpful.;TI"Clarify;TI"example?;TI"Are;TI"
+tests;TI"documented?;TI"Include;TI"details.;TI"do.;TI"	Duly;TI"noted.;TI"Acknowledged.;TI"result;TI"search-replace;TI"module:enable.;TI"
+Round;TI"applause;TI"contributing;TI"
+print;TI"style!;TI"
+time;;TI"terrific!;TI"recommend;TI"pub;TI"	root;TI"folder;TI"access;TI"
+Setup;TI"Wizard.;TI"Big;TI"
+shout;TI"engineer;TI"Eugene;TI"Bannyk;TI"Couldn't;TI"	you!;TI"solution;TI"matter;TI"pushing;TI"
+live.;TI"
+Watch;TI"announcement.;TI"clarifying;TI"comment?;TI"	too!;TI"GA;TI"correct.;TI"
+stops;TI"file/DB;TI"caching.;TI"
+Dunno;TI"punches.;TI"recently;TI"contributions!;TI"reasons.;TI"Postpone;TI"retirement;TI"
+party;TI"tho;TI"+1;TI"Yeh;TI"
+MySQL;TI"	5.6.;TI"Delayed;TI"holidays.;TI"Expect;TI"Should;TI"suggestion.;TI"	plan;TI"components;;TI"cmuensch;TI"	beat;TI"published;TI"depends;TI"u;TI"
+could;TI"
+need.;TI"welcome.;TI"Because;TI"people;TI"
+serve;TI"community;TI"better.;TI"entire;TI"conversation.;TI"CI?;TI"
+works;TI"	gap.;TI"	Well;TI"
+find.;TI"translate.;TI"informed.;TI"Shouldn't;TI"choice;TI"developer?;TI"there?;TI"
+help:;TI"phpspec;TI"behat?;TI"Offhand;TI"(create;TI"
+admin;TI"user).;TI"Remember;TI"
+also!;TI"Currently;TI"
+data;;TI"
+clone;TI"repos.;TI"master;TI"submitting;TI"suggestion!;TI"Austin;TI"
+week!;TI"	Nice;TI"seeing;TI"Joshua!;TI"As;TI"intended;TI"words.;TI"
+exist;TI"patient.;TI"	life;TI"confusion.;TI"$magento/sample-data:1.0.0-beta';TI""require":;TI"{;TI" ;TI"#"magento/data-migration-tool":;TI""version",;TI"."magento/data-migration-tool-ee-edition":;TI""version";TI"};TI"meantime;TI"section;TI"composer.json.;TI"Egg;TI"
+face!;TI"instructions.;TI"ready.;TI"options.;TI"	sore;TI"	spot;TI"resources;TI"	free;TI"	feel;TI"
+spoke;TI"a.m;TI".,;TI"confirmed;TI"configurable;TI"	1.x.;TI"
+Might;TI"	dead;TI"	end:;TI"outside;TI"Or;TI"these?;TI"figure;TI"	When;TI"V2,;TI"	1.x?;TI"method;TI""Extension";TI"reserved;TI"bundled;TI"Connect;TI"synonyms.;TI"A;TI"cat;TI"mammal;TI"	cat.;TI"Component;TI"
+term;;TI"hopefully;TI"
+makes;TI"clear.;TI"package.;TI"	word;TI""extension";TI""app".;TI"places.;TI"	were;TI"	Very;TI"sorry!;TI"places:;TI"	tell;TI"
+fully;TI"	HTML;TI"	Arch;TI"
+Oops.;TI"	404,;TI"	then;TI"comment.;TI"np;TI"do!;TI"
+Topic;TI"architecture;TI"cached;TI"GH.;TI"Refresh;TI"Working;TI"experiment;TI"PDF;TI"tag;TI"wouldn't;TI"layout.;TI"Ideally;TI"
+want:;TI"	all.;TI"	now:;TI"weeks.;TI"hosted;TI"github;TI"permit;TI".htaccess.;TI"Solution;TI"Google;TI"
+away!;TI"encounter;TI"
+links;TI"engines.;TI"everyone;TI"stevescommits;TI"suggested;TI"he;TI"approves;TI"investigating.;TI"anyone;TI"opinion;TI"
+paths;TI"guides/v2.0;TI"
+needs;TI"regenerated.;TI"	7/22;TI"Future;TI"plans:;TI"Service;TI"Contracts;TI"Create;TI"Own;TI"Contract;TI"comment;TI"Customer;TI"example;TI"service;TI"	we'd;TI"	(svc;TI"contracts),;TI"(design;TI"patterns)...;TI"
+hears;TI"actively;TI"adding;TI"contracts.;TI"internally;TI"clarify;TI"advice?;TI"Submit;TI"improvements.;TI"information;TI"developers;TI"	fix.;TI"Upgrade;TI"script;TI"example:;TI"	they;TI"inherit;TI"Framewk.;TI"	sent;TI"something;TI"more'n;TI"proceed.;TI"
+nginx;TI"beta10;TI"anymore.;TI"nginx.;TI"
+times;TI"platforms?;TI"argument;TI"attempt;;TI"support;TI"1.9;TI"Checking....;TI"really;TI"	blog;TI"describes;TI"2,;TI"
+send.;TI"store/scope;TI"MAGE_RUN_CODE;TI"MAGE_RUN_TYPE?;TI"MAGE_PROFILER;TI"
+week.;TI"1.9.1.1;TI"impish;TI"	side;TI"wanted;TI"notice..;TI"Two;TI"Guide.;TI"
+Later;TI"
+Sound;TI"OK?;TI"Starting;TI"
+1.9.1;TI"1.14.1,;TI"Guides.;TI"	tho.;TI"	told;TI"environment;TI"
+vars.;TI"
+Which;TI"	most;TI"useful?;TI"Saw;TI"f'rinstance.;TI"	harm;TI"reporting;TI"Confirmed.;TI"nothing;TI"	FWIW;TI"omitting;TI"-f;TI"--.;TI"
+work.;TI"Understood.;TI"omitted;TI"--;TI"	same;TI"exception.;TI"--,;TI"
+never;TI"started.;TI"
+Maybe;TI"guide.;TI"pasting;TI"emdash?;TI"sharing!;TI"
+more.;TI"
+most.;TI"	hope;TI"you'll;TI"inundating;TI"	PRs!;TI"glossary;TI"public.;TI"Sounds;TI"	wait;TI"opinions.;TI"
+start;TI"announced;TI"#ImagineConference;TI"'bin/magento'.;TI"jumped;TI"	gun.;TI"hidden;TI"Waiting;TI"official;TI"word...;TI"installer;TI"	uses;TI"Symfony-like;TI"syntax.;TI"Updates:;TI"afraid;TI"
+admit;TI"occasional;TI"
+goof.;TI"Correction;TI"	tag:;TI"friends;TI"neighbors;TI"theme:;TI"questions.;TI"Fantastic!;TI"greatest;TI"present;TI"Developer's;TI"Greatest;TI"
+look:;TI"
+tasks;TI"
+want?;TI"see..?;TI"3;TI"	see?;TI"
+most?;TI"Excellent.;TI"Excellent!;TI"Great.;TI"What;s;TI"	main;TI"
+focus;TI"interest?;TI"biggest;TI"contributors:;TI"remember;TI"
+easy.;TI"brilliance:;TI"maintained;TI"Issues;TI"Thx;TI"
+Done!;TI"
+aware;TI"	ETA.;TI"clarified.;TI"
+label;TI"issues.;TI"invite;TI"
+Done.;TI"think.;TI"PR#210;TI""public";TI"paragraph;TI"placeholders;TI"encourage;TI"	lead;TI"us!;T:sentences[[i iiii	i
+[
+iiiii[
+iiiii[ii[iiiiiiiiiii i!i"i#i$i%[i&[i'i(i)i*i+i,ii-i.i/i0[
+i1i2i3i4i5[i&[i6ii7i(i8i9i:i	i;i<i=[i>i&[i?ii@iAiBiiiCiiD[iEiFiGiHiIiJiKi#iL[iMiNiO[ [ii.i(iPiQiRi.iSiTiU[	iViWiXi&[iYii@iZi[i\i]i^i_i`[iViaiibi2ic[ [id[	iViWi2ie[ [iii.ifigi(ihiiijiTiiiki&[ilimiinioipiioiqiiTi4irisitiuiIiviwixiy[izi{[i&[i|i2i}i(i~i[i{iviwiibi2i|i}i~iiÄiÅiGiÇiiÉiÑ[ili}iÖiÜiiáii@i[iàiâiäiãiåiiçié[
+ièii(i<iê[iëiíiiìiiîi&[ii.i(i;i<iï[iñióiòiôiöiõi&[iúiùiìiûiüi+i†i°i(i¢iTi£ii§i•i¶iß[i&[i®ii©ii™ii´[	iMiNi¨i≠[i(i&[iÆiØ[i∞i±iGi≤iii≥i¥i#iµiGi∂i∑i°i≥i∏i(i&[
+iπi∫iiuiª[i∞iºiΩi}iæiø[i¿i¡i¬iui√iƒ[i(i&[i≈[i6ii∆i≥i«i4iQii»i(i…i¡i iÀiÃiÕ[ [iŒigiœ[i∞iºi–i}i—i“i”i‘i’i÷i◊[i(i&[iÿiŸiGi⁄i¡i€[i‹i›iﬁiiﬂiTi‡i·i‚i„i‰[iÂi(iÊi»iÁi»iËiTiÈi»iÍ[iiÎii(iÏiiÌi2iÓi3i4iÔi&[iiÎii≥i(iiÒi&[iÚiÛiÙii~i,iıiˆiê[i˜i2iÓi3i4i¯i(i&[i˘i˙[i˚i.i¸i˝i@iQi˛iˇ[i i@iiii≥ii[i([iiiiii	ii
+[ii≥i≤iiiiii4iQi¸ii4iiQi[ii#i[iViitiuii	ii≥i~iiiiiiii[id[i(i&[iiiiTii i!ii"iGi#i$i%[i∞i&ii ii.i'i(ii)i*i#ii([i+i,[i-i.i/iiGii0i1ii~ii2i3iNi4i5i[ii6i7ii8ii9[ii#i[i:i4i;ii<i(i=iTi>i&[i?i.i(i@iAiBiiC[iViÌi2iÓiìiNiD[i&[ii.iEi#i≥i(i8iFiGiHiIiìiiFiJiKi&[
+iLiMi]iNiO[i(i~iPi,iıiGiQiRiSiT[iUiViWiMiNi¨i&[
+iXiYi¡iZi[[i\i&[i∞iÓi]iZiiYi¡iˇ[i^i_ii`iiaii([ib[
+iLi≤i.i(i
+[ici≥iPidiieifi}i≤i˘ig[i&[iπihi¶i(iiiãijiTiki°iliTimi&[inioi(iiiãijiTipi[iq[irisiti@iuivii4i[iuiw[iXi(i~iPiZixiy[iXi(i~iPiZizi{[iVi i|i}i@i~iiGi[id[iiiÄ[iXiÅiÇiÉi#iÑiÎiÖii≥iÜiái≥ià[iâ[i\iä[
+i+i•i(i~iã[i∞i,iåiGi≤içiéièiêiiëiNiíiìiî[iïiñ[iÚióiGiòiiôii4iöiõi iúi¨i≠iTiùiû[iüi2i†ii°ii4i¢i£[i§i•ii(i¶ißi&[i®igi©i(i™i¡i´[i¨iNi¨iTiWie[i&[i≠iiBi(ii≥iÆiØi&[id[ [	i+i•i(i∞[ili±iGi≤i°i≥iiQi¥iµii∂i∑i∏iπ[i¥i∫iTi¥iªiºi[i]iΩ[i&[
+ii(iÊiæiø[i6iiÓiìii<iGiÊi¿[i¡iûi&[i¬i/i(i√iƒi≈[
+i∆i;ii§i«[
+ièii(i»i…[iÂi»i.i•i iÀ[i§iÃii iÕiiŒiœ[i-i–i—i“i≥i”i‘i’i÷i¡i◊iTiÿiŸi⁄i&[i€i‹i›iõi,i i…i4iﬁiﬂiTi8iEi‡i·iÀ[i‚i¶iß[ [i„ii‰i@i[iGiçiÂi¡iÊii≥i(iBiÁi&[iËiÈi[ii6i7iiZiÍ[i∆iõi<i°ii≥iÎiÏi([iËiÌiÓ[ii6iÔii≥i~iﬂiiZii–i¡iGi≤iÎiÒ[iViitii	i.iGiÚ[iÛi2iÙiiiYiÀii0[i˜i2ib[iZixigiıi¡i•i≥iˆi·iâi¨i˜[	i¯igi¡i˘[iZiŒi≥iÕiPi‰iZiziÜi,ii˙i¡i˚[i([i¸ii˝i≥i(i˛iTiˇi ii@iii‰iiÜi[i¡iiiiTii/ii[i∆iõi	iBi‡i(iﬂii
+[iii(i~iiiiÏi¡i[iiii°iiiiiiiiÌi2iÓ[iiAii(iiÆiiii–ii&[i6iiÓiìii»i(i¡i/ihii[i&[ii(iiii/i i&[i≠iiuiAi.iGi»ii≥i(i!i"i&[i#iŸi$i%iiÎii&i(ii'[i≠i(i)iNi*i¡i≥i+i,[iMi¨i•i≥i-ii.i/iTi@i0iiTi1iÓiÎi2[iÂi3i.i(i4i5[i§i,ii6i7iNi8i»i˝i#iii9[ [i-i/i(iGi:iZi;i‡i/i<ii4i=iuigiGi>i?i@[ii(i!iAiBi#iâiTiCiD[i&[
+iEi#i(iFiG[iHiZiGiIiJiÜi,iiKiLi4igiiM[iViiNi}iOii]iP[ [iQi(i@iAi.iRii,iõi iSi‡iiÏiibiTi≥iU[ii(iViWiXiiÄ[iViQiNiiYigi.i≠iZi[i\i][	i~iZi,i^[iMiNi_[i(i&[ii`iai.ibiﬂiıicid[i{i≥iei≠i≥iRi#i(i&[iiiÄ[i(ifig[i¨iNi¨ihi2iiiijik[	ilimi/in[ii(ioipiqiiir[iViÌi2iÓiiNis[i&[itiu[i@ivi≥iÎiZi°i≥iwix[i∞i&iiyiGi≤iui#iziZi{iﬁi°i≥i|i}i&[i~iiÄi(iÅiiiTiÇ[
+i|iZii$iÉ[iu[iÑiu[iÖiiÜ[
+iiáiibi`[ [i≠iiài(iâiFiiäiãiåiçi&[i≠iiQi◊i¡i/i&[ièii≥i(i!iAié[iiﬁiièiêiëií[	iìi•i(iî[ [ii(iiiïi4iiAiñiÀiBióiòi&[ii(iiÆiiôi?iöiiõiúiiùikiiûiüiiü[ [i†i≤i(ii°i¢i£i¡i§i4i;iiÓi¶i•ii¶iiTißi®[ii(i¥i©i™iii´iôi™ii¡i¨i≠i&[i+i(iÆiii4iØiGi	i∞i±i?i≤iTi≥ii/i∞i¥[ili±iµii∂i`iai,i∑i∏i¡iπii(i∫i&[	i+i(iªiœ[iiºiΩiæiiøi£iiŸiNi⁄i&[ii¿i(ioi£i¡i¡ioiii¬i√i&[iƒiÀi∆i≥i(i≈i∆i«i&[ii(i»i…i≈i∆i iÀiiÃiÕiŒ[iœiQi–iÀi—i[ [iŒi“i~iPi”i‘i’i$iviÓ[	i÷i◊iÿiŸ[i⁄i€i‹[	i›i4iﬁi([i	iﬂi‡iXi·i‚i.i„i‰i4iÂiÊiÁiû[iËi#i·iYii(i.i£i,i–i¡iÈiÍiÎ[iÏi(i!iAi™iÌiÓii≥iÔi&[iQi(i iiÎiiiÒiiÚi iÛi&[iÙi(iıi™i¡iGi≤iˆi&[iÏi(i˜i¯i˘i˙i&[	i‚i•i¶iß[i(i˚i¸iëiíi&[i˝i˛ibiÆiiˇiiTi [ii≥ii#iiaiû[ii(iii.iiTiiii&[ii(iiii	i&[ièii(i
+iiii∆iiiTi[ii iÑ[iiÎii≥i(ii[iiii°i≥i|i[ii[i&[i®i(iiqiiiıi¡i≥iii&[iii(i@iAi[iiAi,iGii4i=iAiii.iy[i§i•i(iÆii_iNii@i[iiii`i[
+i iTi4i!i"[i&[ii(iiii#i[ii(i$iiiiiii.i%i&ii[	i‚i•i¶i'[	i(i(iëií[i	i)ii(iAii*i+i.i≥i%i&[iMiNi¨iTi2iWi,[ii(i-i.iRi&[ièii(i.i/i0i1iGi2i&[ii(iai3i4i5i2iiAiiiºi°i6[i7i(i<i8i9i<i:i;[ii(i<ii=i>[ii=i?ii@ii.iêi$i+iA[iiÎiiBiiCiTi≥iDi#iEi(i&[iFi.i(i‡i+i≥iGiHiTiIiiiJ[iKiŸiiÓi.iGii™iL[iMii	i8iNiëiíi&[
+iOiÍi4i.i#[i›iPiQ[iRi]i∑ii·iZi}iSiTiT[i\[iOiÍi4i.i°iiiU[iViu[iiWiiAi•iiiÜiXi2iÄiYi4iZi[iÁiÀi#ii\i∑i\[i]i¶i≥i(i^i_i`[iria[iMi¨i&[iCibiÂihici°i/i(id[i&[ieiÜiy[	i‚i•i¶iß[
+i(ifiëiíi&[igi4i=ihiTiii\i.i≥ijiki&[i∆iõi,ili≥iPimiiî[ini\i&[	iCioi/ip[iqi4iri¨i}i≤isi/ii&[iCiti≤iﬁi.iCiuii\i&[iv[iw[
+irixi.i≥iy[izi.i{[i|iRi]i∑ii}i≠i&[i~i(i@iAioiºiiÜiiViÄiÅi#iÇiiŸiNi⁄i&[i	iÉi@iAioiºiiÑ[iÖiÜiViÄiiŒiá[
+iMi¨i≥iAi≠[iÆiTiàii≥i%iâi‡i	i©iä[iãiåiNi≥içi#i≥iéièiêiiü:mentions[≤[
+iëiiÍiíiì[iîiïiñi@iói¯i#iNiiò[iôiíiiöiiõ[iúii≥iùiTiûiüi#iTi†[ [iYi.i≥i°i¶i¢i£i§iii•[ [i¶i°i≥ihißi¡i®ii©i™i.i´iTi¨i≠i=i iÆ[iúiiØiNii∞i.i±ißi¡i´ii≥i≤i≥[i¥iµ[ili∂i≥i∑ii∂i∏iπi∫[iziªiïi3i.iº[iΩi4iæiøi¿i¡[iY[i^i/i.i¬iÜi,ißi√ijiƒi≈[	i∆iºi°i«[i»iriŒi i≥i…iˆiri i≥i [iúi–i≥i(iıiÀ[iYi[i&[iÃ[
+i∞iÕiıi≥iŒ[iœ[i∞iºi–i‰i∑i—iåi“iıi≥iŒ[ii”iiAi≥iaiiÍi.i‘i]i_[i’i÷iZi‰i4iõi◊iÿiŸiÀi⁄[i€iZi‹i.i›i—iõi i…ióiﬁ[iYiiKi¿i:iNiTiëixii`[iCiZiŒi[i¯i4iõi∆i≥iﬂiTi i‡[i·[	iYi.i≥ie[iúiiÀimiNiáii‚[iYii‰i„iíiiKiiGi‰[iVibiÂi6iÊiiÁi]i¨i—i@i;i/iË[
+iYii[iÌiÈ[i[iºiNi≥iÍi.iÎiÏiÌiëiÓi+i–i¡iÔi˛[	ii4iiÒ[iÚi+i4iÛi¡i/iÙiı[iˆi}iïi@i[i˜iai¶i¯ii}i˘iÍi.i‘iNi_[ili iii·i˙ii}i˚i¸iTi[iNi¯iZiùi˝[iúii˛ii}i˚iˇ[i ihi4iiai—iKiiNiáii˛i[iúii2iÌi2iÈ[i§i2iiàii@i;iiÓi∂i6i[i∞iŸi[iΩi4iji$ii‰ii i[iúiiTi2iaiibi2ibi`[iüi2i/i	ii
+iiTi[iXii¸iªiiiZiii.iiiÄiiiii¸iª[i[iºiißiiiŒiïi[ii[i[ii¶i]i°i≥ii—iNiii[ii[iiii[i i![i-i.i"i¶ii°iGi;i#iiôi4i•i$i3iGi%[id[id[ii/iái≥i&i‰i'i i(i°i)i—i[iºiÓiGi*iM[i+[id[i∞i;i/ibii}i≥iai,iTi-ii`[i.ii˛i/i≥iÜi7i.i0[	iZi4i;i1[iiŒiii≥i2[	i3i7i.i4[ië[id[ii/i5ii}i6i7iÑ[	i˝iZi8iˇ[i®iGi®ii≥i9i:[i;ii‚[i<iii4iÓiGiÎi‰ii=i°i>ii2iyiß[i?[i@iGiAiBiCiD[iÖiZiE[iF[iúiÍiºiGi·iYiiêi/iHi[iiIi/iˆiiJi™iibiK[ [i;iiiLi4iMi/iNi°i≥iOiP[ [id[
+iViaiiWie[i˝i„iŸiiQiRiiSiNi‡i˘[iΩi4iTi2i≥iU[i-iViŸiiiiYiû[i-i4iWiXißiYiiZi4i[i\i≥i]i.iƒii^ißi@iõi_i`[iia[i∞iÓi≥iibiaiZici≠i≥idi6i/iieiy[ifig[ihi≠i]iTiNiiNii[iijiiiŒiki¡i]il[ii"i≥imini.io[
+irii˛i≥ip[iKiŸi4ii¿i≠i≥iˆiqi˛iuir[iY[ii/ii≥iisit[iliyi$iuii≥iˇ[iviwix[i˜i2iÓi3iiViy[
+iiáiibi`[id[
+i˝iZiíiiz[i{iIiiÌi2iÓi∂i@i|i}[
+iiáiibi`[	irii~i[i#iZiÄiiri iÅiÇ[iÉitiÑi.i]iÜi,iiØiiÖiYiiÜ[i∞i;iiái]iài#iâ[i#i4i[iäi2iGi¸i#iˆiãiåi[
+i√iŸiiçiy[ié[i®ii¥ièiØiê[iëi#ií[
+iìi∞iîiïiñ[i[i[iÇióiüiiòiitiJ[	iôi4iöiõ[iˆiAi∫iiúiiuiùi—iGiûiü[ [
+iiáiibi`[i’i†i#i°ii¢i£i§[	i•i¶i°iß[iVii~i#ii®i©[iiáiibi4ißi2iLi≥iii™[iœ[ili¿i:iNiTiëixii`[iΩi4i´[i:ii¨[iYiii“iNi≠[iÆii~iØi–i‰i∞[i∞i[i±ii≤i/iÙi	ili≥[
+i˜i2iÓi/i¥[i&i([iµi≥iÆii3iti4i∂[ [i[iºi¯i\i#ivi+iﬂi—ii∑[	iÚi,i˛i∏[iYi.iπi2iTi∫i.i≥iª[iºi≥iΩii+iiæ[
+i˝iåi i8iø[ii¿iNiTiri[iiOiÇ[	i‹iii¡[ivi¬ii√iGi	iﬂiƒ[iéi≈iZi∆i«i]iZitiai.i»[i…ii˛i°i≥i i≠i≥iRi#i≥i:[iÀ[
+iXiˆi∑iÃiÕ[
+iXiÎi∑i)iŒ[iôiGiœi#ii©i‰i–i i˝[
+i˝i—iZi“i°[iYiiKiiGi”[iXi‘i’i÷i$i#i≥iQi◊i’iÿ[iiõiŸ[i⁄i€[i;i‹i›ii•i-iﬁi@iºiiGi≤iVi‡iﬂ[ [
+izi‡i·ii‚[i„i≤ii∫i‰iói@ii—iKiyiÂiÊiêiÁiË[ [iYi(i.i‘iNi_[iúiØiÖiYiÈiiÍ[iÎiÏiTiÌi¿i°iÓiÔi[
+iΩi4iTiuiÒ[iÎiﬁiÏiTiÚi˛iÛ[
+iYi.iÙi]iı[iiˆi\iΩi[i˜i¶iNii"iHiˇ[i[iiti¯i˘ißiØiiYiiçi¡[ii4i“i≥i@iiÀi˙i≠i≥i˚ii¸i¡i˝[ [i:iZi4iŸiiNiui˛[i{iGi¿iTiÌi2iÓiiNii[iˇi‚[i i3i[iÓii≥iii£iiii—iri iÇ[iliâiNi≠i‰i7[i[	i:i7iZi`[iÔiiéi≥iei[iO[iiŒiiNi—i@ióiZivi•ii|ii≥ii#i≥i	[iÙii
+i+iQi’iâiiŒi[i[iÖiıi≥iQi◊iiπi]iTi$i’i[iiii	iiÍi.ii2iÈ[iiiNiiÍi.ii2iÈ[	ii4i“i«[ii[iiŒii≥iiihi°i‰iË[iiAi≥iii[i[iπii[i-iiiiNii◊ii•iiiíi[
+i iZiŸiGi![	iYi.i≥ie[i"iÍ[i(i&[iœ[
+iiáiibi`[
+iViLi≥iii™[i#i$iiNi]i%[i&ii'i\i(i.i)i*i/iiti+i.i,[i∞i+i/i-ifi.iiTiQi/i(i∫ifiui0[
+iYi.iÙi]iı[iVi1ii°i≥iii4iWiXißi2[i3iZiGi4i#iiAi•i5i.i•i6iiºi7iñiNiiÅi[i»iZiVi#i8i9i:i;[iXiOiZiiQi]i˙[iœ[iViWi<[izi=i>i.i?iói–iMi_[i[i@i≥iAiZi.iB[iZi]iiAiCi≠iD[iEii≥iFii°i‰iG[iÎiGi;i#iiŒiïiìiNiiHii—iIiJiiN[iKi[iiLiNi‡i/iÙiM[iï[i[iºiiNiNiTiNiD[iOiïi/iPiQiRiSiT[iUiZi]iiViTiW[i:iQi+i4iXiY[iZi]i3i.iXi[[ [i-i.iƒiIiJiiõi4i\i]ii^i_[i`iaiZiibicidie[ifi^iFitiVi¡i≥igiTihiii[ijiGi#iTi@i@iõiTiGi˚ikil[ivi"i¶imi¡inio[	iliAi4iÇ[iOiˇ[ii¶ip[
+iliëiNiqir[	irisiit[iΩi4iui¬ii‰iv[i∞iõiw[iΩi4iTiuihi¶i3i.iƒiix[iOi,iiji¶ip[iii≥i°iyiZiizi{i°i|i«[	i∆iõiQi}[i∞i[iiÖiYi‰iåi~i°iiiÄi«[iïi[iÅiÇi4iºiÉiGiÑiiºiGiÖiÜ[i∞iáiºi[iài.ip[iZi4iÓiâiäiã[i:iti4iÉiåiç[ié[iXièi[iºiiNiiiêië[i[i¯i@iíi˛iGiìiΩ[iYiiNi„ii2iŸi˛iîii}iï[i-i˛iñiiZi4i[iƒiNi[i∞i¯iNii iîii≥iÖi	iì[i…ii[iIiZiiÓiói”iii@iò[iúii[iNi‰iô[iöiNiiåiAii[iÓiõ[
+iYi.i‘iNi_[	iEii•iú[i[iºiùi.i	i—i[iíi@iûi4i•i≥iü[iXi†iAiZiitiL[
+iiIi/iiy[iXiYi¡i°iTi¢iZiIi£[
+ii.i≥i§i•[izi‚[i[i[i_iNii≥i¶iß[i®ig[
+iYi.ii2iÈ[
+i©i¡iÖiYi™[iXi´i¨iÆitisi≠iiiãiÆ[id[i∞iØi∞[id[i∞iØi∞[i±i¨ii.i≤i	iﬂiai≥[i¥iµi¨i$i∂iNi¡i∑[id[i([i‹i∏ii_i≥iΩ[iπi i∫iªiíi˛i[[i‹i∏ii_i≥iΩ[iπi i∫iªiíi˛i[[	iYiiºiº[iöi≥iYii'i iGiΩiªiíi˛i[[
+iæiZi≥i≤iø[i¿iiºiGi]iiÌi¬iNii[iõiáiGipi¡[
+iXi¬iLiiQ[iıiXiNi(i¡iGiÎii√iƒi&[iYi(ii@i,i[i(i≈ißi∞i[ii∆i«[i[itiŒi¯i[iGi]ii»[iúiiNiZi iGi=i…iTi iBiGiÀiÃ[iYi.iÕ[iliti$iŒiTiëixii`[iziiœiiki–[i˜i2iÓi3i4i¯i¶i«[i[i—iÕi“i”i+i°i‘ii±iµi.i’iäi÷i^iÀi∞[i◊iiNi3i@iiÿ[iŸi@i⁄iºi[i3i4iZi—iNiái°i€[i‹i≥i¥i›iTiﬁiﬂi+i=i-ii‡[i¥iªiZi+iiTi·ii‚[i„i‰iZiwiÂiTi@ii}iGiAi_iÊiui¶i/iÁ[i∆i+i≥iËiViÈiJ[
+iÍiÎiNiÏiÌ[iÓi	iÔi¡iiuiiÒiiNiÚi i!ii~iÛiiÙiı[	i[ii˛i«[iˆiªi˜[iÀ[iYi≈[	i‹i–i≥i¯[i˘[
+iYi.i≥i˙iŒ[ii˚iÇ[i‹ii≥i¸i˝iZi˛iˇiˇ[
+i{i i±iIi[
+iYi.ii2iÈ[iii≥ii$i[ii[iœ[	i[iiŒi[i[iiniñiiÈii}i	iziiÍ[
+i^iûiTiùiû[i
+iZii4ii#i≥iiﬁiEii[iiii3iiri≥ii:iéi[iÖiriéiói$iøi[iiii	iii[i[	i:iri i[izi\iiiºiB[iii°i?iTiiúiTiiii i [i¿iii@ibiÀi!i4i"[iÍ[i∆iriLiûiüiTi#i$iíi%iiÀiiTi$i‰iuiiŒi&[iºiNi[iÓi#iZiiôiiÀi'[i∆iÉi![
+i:iZi/iQi([i±i¨ii.i)i2iÇi¥i(ili/iT[id[	i*i+iTi,[i-[i∆i;i.ii»i…i.iﬁi/ii›i0iΩ[i1i2[iXi»i~iıiciXiTi˛i°i≥iiÒ[iYi3[i»i4i i…i.i5i°i6iºiŒi7[iÚi[i[iÃiAii»i˚i8[iXii:i9i:i°i$iøiiTiiTi@iºiåi4ii∆ip[iÎiﬁiúiii;iiriøi≥i	iii<i≥iki=ii‰ii+i>i?i'[iiiiŒi@i`[i:iti4iÉi4iAiB[iΩi4ihi2ii…i#i3i.iCiD[iœ[i[iÕiNiEi)i	iFi[iGiGiH[
+ii4iIi¡iJ[iúii2iÌi2iÓißi@iõibi4i_[iiXiKii2iWiiiL[iÙiiKiIi°iii iXiÇ[i˜i2iÓii4i;iuiŒ[id[i„iMiÈiNi˝i≥i iZiOi4iP[i"i iZiÂi∑i iii iZi§iQ[	i[i›i•iû[iiÌi4iÓióiRiói[iöiõ[iZi]iSi@i;iiTiÀi∆i°i≥i»iU[
+iúiiViWiX[iÚi@iiNii}iNióiÜióiYi.i4iiZi¡i˚[	i[i\iiß[i;ii‚[i∞iõiàiÕii@iëiii‡i`[i[
+ii(i.i≥i][
+iViLi≥i^iQ[i_[
+iYi.i‘iNi_[
+i`iZii≥ia[i[i˙i≠iNiºi,iTi.ibiQici≥iQidi.ieiZif[iÀ[ig[iViÌi2iÓii4iáiNih[
+iYi.i‘i‰iO[iiÌi4iÓii˛i∏[
+iiiÀihiij[iki]iÊili‰i+iŒiáim[id[iúii2iÌi2iöi‡i`[	ini•i√io[i∞i\i5iibi`[iViÌi2iÓi3i@iõip[iqir[id[is[i»iZi≥iti#iGiuiª[
+iXiÆiZi´iv[iˆiyiø[id[iwi#ixi.i.iyi≥i(i~izi{[i∆iõiziGi∑i≠iGi|i„i}[iYii@i~iiiói≥iÄiÅi°iÀiiäiÇii≥iÉiÑ[i∞iiNiibi`[i˜i2iÓi3ii@iõip[iÖi(iÜi¨ii}i5iáiiàiâi[iäi[iXiNi_iã[i∞i[iGiåi,ii˛iGiçi#iéiNiè[	iêi.iië[i#i4i[iíi/iì[iYi4iî[iÖii±i≠iïi[	i[ii.iñ[
+i‹i◊ióiòiô[	iöi¶i„iõ[iúii@ii‰iúii‚[
+iÚiÍi.i/iù[i∞i~i◊i°iÀi8iiiÀiGi·i.iHiû[iüi≥i†i°i¢iÍ[i£[i§ii	iÉiÜi•i¶[i∞i[iGiåi°i≥iD[ißi˝i#iïiTi,ii®[	i©iiAiÇ[
+iYi.i‘iNi_[i™i i∏[iri@itiŒiái—iÍi.i≥i´[i∞i¨iiyiuiΩi¶iìiii≠i]iZiGi=iy[iÆiØi¬iiNi—iºi∞iib[iXiNi4iQi≥ii±iiìi≤i.[	iÖi@i≥i[i˜i2iÓi3ii4i¥[i([iviwiµ[i∂i#i∑iŸi4ii@iõi∏i≥iπi∫[iœ[iliTiTiëixii`[i[iºiNi≥iªiº[i:iZiΩ[i∞i[iiAi°i≥iæiiNiri i iwiÇ[iziái—iÍi.i‘i¨i]iø[i¿i‚[i{i2ibi2ibi`[i˜i2iÓi3iViŸiÀi3iˇi4i¡[i∞i[itixiáii¬[	iViLi2i√[iƒi≥i≈i#i*i igii≥i∆[
+i≠iõi@ibi«[i¬i]i»[
+i:i+i…iTi [	iÀiiºiÈ[iliëixii4ii‰iiÍi.iÙiNiı[iÃiÕiŒ[iœi@i[iPiæi,i–[i—iViNii.i@i“i”i	iÉiﬂiTi@iAi‘[iÂiÿiliÀi’ii![iÖiÍii.i÷i≥i%i≠iZi[iÎi◊[i(i&[iÖiÍii.i˚iiÿiibi2iÅiŸ[
+i⁄i€i4ii‹[i(i&[i›i/ii}i~iZiﬁiibi4ißi2iLi≥i^i˚i([
+iYi.i≥iàiﬂ[iViÌi2iÓiìi@iõibi4iuii@i‡i˝i#i∑iŸi`[i∞i[iGiæiåiiºiGiçi#i7iíi4iNiy[iVi i·[iúii6iáiibi4ißi2iÌi2iÓi3i@iõitii}i/i‚iÑ[iÙiiÎiZi–iˇ[	ii(i.i„[iΩiiQi≥iÆiŸiŸi¬iåi‰[iÂiÊ[iÁiËiÈ[iÁiÍiÎ[iÁiÏ[iÎi≥iÌiiyiñiiGi≤iåiÓi°iÔ[i¬i‰i[iiiÒ[i’i∫iiKi[iiAiiÚ[iˆiÌi4iÓii˛iÛ[	izii8i[id[i®iNii≥i¸i#iÙ[i^iGiıiˆi.i2iô[ii`ii$iÖi˜ii¯iı[i-i4i[i†ii˘i¯iiiYiÀi#[i¿ii˙i¡iöi]i˚i¸i˝i˛ibi<iŒii4iiÀii°i	iˇ[i_[
+i i iGii[ii4i[	iiibiu[i[ii	iiìi¶i[ii[i[i¬i]i1[ [i‹iƒiii¨iìiib[ii4iúiii4iÉi	i	[i-ißi[itiŒiNi‰i
+i°i≥i†iê[iiZii.iViÀiuiñii.iiiÄiiÁi‚[	iiZi=iÍ[izi[iiiZiGii—iGiiZiŒiGi[iiZiGi˜iii≥iiiNiui[iibiõi iGiii2iÀii[izii≥iiiÀi[ [iiu[	i3iti4i∂[
+iZiùi°i∫i[
+i:ii4iXi[[ii [iOiˇ[
+i®i°iÇi!iT[
+i®i°iÇi!iT[i#ii"i4i≥iYiZi,i#i[[iXiQi$i‘ii≥i%i™i,i´ii≥i¶ix[i&[i[i8i≥i'ihiNiGiΩiwii(i4iõi}iGi)[	iiiiΩ[i*iini3i@i+[iiÌi2iÓiiFiSii@iõitiii[	i[iNi≥iΩ[i,iiæii≥i¥iôi™i—i$i‡i≥i-i£i.ii/[	iˆii$iŸ[iöi3iiiji—ii¿iû[	i0i≥i∑i([iOi,[iOi,[ii¶ip[
+i1iiGiyiˇ[	iYi.i≥i◊[ili\iNiTiëixii`[ili2i¡iµiGiPi3iTiëixii`[	iYi.i≥i◊[
+i∞i[i‰i4i2[i-i4i5i[iµiiYiiiyi≥i4iiy[	i^ii}iˇ[ili;i$ibifigi≥i6[i7i4i≥izi3i4i8i∑ii£iiÀi9[	iiáiii[iViÌi2iÓi3ii@iõiti.i`[i^iÁi:[iYi.ii2iÓi¶i]i¥[ihi.iGiâi°i≥iÙiÇi;[i\i&[iCi<ii=iiÄi)iŒi>i?[i@i∂[
+i˝iri i8iˇ[iViÌi2iÓi#i\i€i4i¡[iAiB[i∆iriŒiCi€ii@iDi‡iæiE[iYiiT[iiyiZi°i≥iD[iliâi¨iiFiÿia[iGiHiNißi[i&iIiJiÍ[iiK[i¬iLi[iiMi#i«[iOi,iiŸiNi_[
+iYi.i‘i‰i_[i∞iºi–iNiiOiTi‰i$iPii iQ[
+iliëiiNiR[iúi6i[i∞i+iIi`i.iÖibi¡ip[	iYi.i≥i◊[ili}i≥i0iÙiiji4i<iGi·iÁ[iSiTigiÂiUiVii≠iiWiiXiYiiTiZiCi°i9[iXi	i[iiZi≥i\i#iGi]i^iŸi≥iπiil[i:i@i[i:i_i`iaib[iOiciã[iidi/iieiui∫i¶i]if[	iYi.i≥i◊[ii”iiiNigiTiTiiAiÇ[iΩi4ihi3i4iÉi4ii’iZiCi[	iÂii\ii[iji°iÀiNi¡iHik[iKiŸiiÓi3ilimi¥[i^i8iˇ[iYi.i‘i‰i¨iiåin[
+ioipiqiiN[
+ihi≠i]i.iq[ii	i6i[ii$iTirisi‡it[i[iiŒi§i]iíi[iui8iOii»[ii¿i.ivi.i`[ihi≠i]iTiÌi2iÓii˛i3i4i8[iïi[
+iviwiàiix[i[itiŒi¯iiëiiyiÇ[i›i#iliziÀißii4iºiQi‰ipi{[iï[i[ii[i$i7i,ii~ii|[i≠i¨i}i[i4iSi`[i:i~[irii—i]iZiiiÄi@i[iGi0i°i.ivi∫[	i∞iÅiyiÇ[iÉ[
+iZi4iÉi√i`[i-ißi^iÑiØi≥ii[iYiiriŒi iiΩ[i-i4iÓi#iGiÖiÀi$iˆi∞iai‰iÜii.i	iái2ià[iˆiÍ[id[iÅiâiiti4iÉiäiTiã[i∞iri[iåi∞iÙiç[i∞iri[iXiNiiﬂiéii±i—i}ièiêii[iëiiÓiiLiZií[iÍ[iìi[i~iıiGieii≥i iî[iïi‘i]iåi iGieiiﬂiéii
+[iñió[	iﬂiéiëií[iòi¡iﬂiôiTi8iöiëiÓi+i°i≥i iõ[i[iõiyiGieiú[i.iiTiiùi≥iYiZii,i¡ii–iÄi[
+i1ii(iûiü[i†iti4i¯i+i≥i°i¢[i£i/iiiåi§[i^iXi—iFiti•i°i/i¶iNi;[iß[ili1i]ióiiΩ[	ivixi®iµ[i©iii”ii\i™iﬁi´iTi≥i%i¨[
+iiùi‰iri≠[iÆ[ii[iiNii[iØi≥i%i∞iTi≥iÆiói~i≠i9[
+i[ii‰i±i≤[i{ii[iØi≥i≥iÆi¥iµ[
+i∂i]iZiiΩ[i[iiNiﬁi-iTi≥iÕiNiNiæiZi¡i∞iói°i≥i∑[iki4iïi.iŒi∏i≥iÆióiiπ[i˘[iYi.i∫[	i∞iZiíiª[iVi"i2iViÀiÇiÖi‰içii4iº[iœ[iiáiibi4iTi@iΩiæibi2ii4iøi2i¡i¿[	iúii6i[iiXi.iÖi˜iibi2iyi¡[iúiiÍii^iØip[i∞i[iiÖi¡i—iNiiii i¬[i√iŸi@i˛i±iiGiiƒi.iui≈[i	iii–ii∆iû[i›i«i»iiii,iQi…[ii¶i‰ii[i i≥iÀ[
+iXieiZiÃiˇ[	iÕiiŒiœ[ii–i,i—i“i”[i‘ii[ii6iŒi’ii÷i≥i◊iÿ[
+iŸii≥i⁄i\[ii€iêi‹iºi–i≥iÎiiµiGi›i\i&[id[i˜i2iÓii4i[iﬁ[iﬂ[id[iXi‡i;i≠i·iZi≥i´i‚i™iid[i„i;iZi≥i´i‚iî[iViiGi‰i\i&[
+i:iÂiti4iÊ[i#i4iŸiibi¡ivi4i[iài°iiviViÑiŸiiÁ[i;iiz[i:i+i≥iRiËiÖiViŸiiÈ[iÚiõi4ibi2i≥iÍ[iÎ[i:i+i≥iRiËiÖiViŸiiÈ[iÚiõi4ibi≥iÍ[iÏ[iÚiZi4iŸii1[iBi≥iRiËiÖiViŸiiÈ[iÌ[iÓi/iÔii#iÒ[iBi≥iRiËiÖi4iZiiÈ[i	iöiaiÍi}iÇiÚiπiÛiT[i›iNiy[i(i&[	iÖiÜi#i‚[iÚiπiiÙii˛iı[i¡iáiTi‰i2i/iˆ[iiji—i≥iPiıiŒici˜i°i$i7iTi@i[itixiitiy[i¯i¡i(i’i8i–iyi$[i˘[i&[i˙[iYi(i.i‘iNi_[ [
+iYi.i‘iNi_[i[iiŒi˚i#i¡[
+iÖiåii$iŸ[iiëixii4ii[iÓii¸[iYii6i/iLiii[i˜i2iÓiiViŸiSi›iÀi˝[i∞iØi≥i˛i—i@i;iiyi$iˇ[iliti‰iTi i/ii[i&[i[i˜i2iÓi3i4i[id[i∞i+i/iLiii[
+iViLi≥i^i™[iiXii›ii
+ii%iii[
+i˝iZiGiíi◊[iiiiei$iiRi—i@ii4iii	[iœ[
+ii`ii‰iô:keywords[»I"	http;TI"
+https;TI"CLI;TI"
+Check;TI"Magento;TI"devdocs;TI"Release;TI"
+Notes;TI"Attention;TI"Updates;TI"	REST;TI"GitHub;TI"
+Guide;TI"API;TI"Devdocs;TI"PHP;TI"Framework;TI"Testing;TI"Central;TI"PRs;TI"update;TI"
+Admin;TI"RWD;TI"
+Redis;TI"
+Cloud;TI"Vagrant;TI"
+topic;TI"Jekyll;TI"documentation;TI"	site;TI"
+issue;TI"topics;TI"	test;TI"Windows;TI"Developers;TI"Varnish;TI"installation;TI"tutorial;TI"Enterprise;TI"
+'Edit;TI"Composer;TI"Config;TI"create;TI"Updated;TI"
+Heads;TI"
+Hello;TI"URI;TI"upgrade;TI"Developer;TI"sample;TI"MagentoDevDocs;TI"Dev;TI"Monday;TI"README;TI"	devs;TI"updated;TI"
+guide;TI"commands;TI"branch;TI"install;TI"
+cache;TI"	pull;TI"feedback;TI"command;TI"	here;TI"	send;TI"
+clear;TI"reference;TI"developers;TI"functional;TI"	We'd;TI"including;TI"Workaround;TI"
+Write;TI"Xdebug;TI"'admin';TI"'backend';TI"'bundle;TI"instructions;TI"'composer;TI"	404s;TI"	APIs;TI"	Alan;TI"Announcing;TI"Architecture;TI"Belated;TI"	Beta;TI"
+Bored;TI"
+Build;TI"CSS;TI"
+Cache;TI"Calling;TI"Change;TI"Chicago;TI"
+Click;TI"Commerce;TI"Components;TI"Contact;TI"Curious;TI"change;TI"Designer;TI"
+check;TI"Details;TI"DevBox;TI"DevDocs;TI"
+DevRC;TI"Display;TI"ETA;TI"config;TI"Edition;TI"
+Enjoy;TI"Experience;TI"Extension;TI"Failed;TI"
+Fetch;TI"Follow;TI"Gde;TI"Gem;TI"GitHub';TI"	cron;TI"	Glad;TI"custom;TI"requests;TI"Here's;TI"JavaScript;TI"Library;TI"Listless;TI"MAGE_DIR;TI"develop;TI"Merchant;TI"Migration;TI"Mobile;TI"	Note;TI"Overview;TI"PHPUnit;TI"PayPal;TI"easier;TI"PhPStorm;TI"Pls;TI"RCx;TI"Reminder;TI"Reorganized;TI"Required;TI"SIs;TI"	SOAP;TI"Sample;TI"system;TI"Security;TI"	Seek;TI"Selenium;TI"	Send;TI"Something's;TI"
+theme;TI"	Step;TI"
+Storm;TI"Symfony;TI"System;TI"Verified;TI"Temporary;TI"Thorough;TI"	Tool;TI"
+users;TI"Translate;TI"	URIs;TI"Update;TI"migration;TI"testing;TI"guides;TI"
+merge;TI"ownership;TI"
+avoid;TI"	time;TI"	tool;TI"top;TI"public;TI"continued;TI"now;TI"	sign;TI"improve;TI"solution;TI"console;TI"notice;TI"
+split;TI"session;TI"security;TI"request;TI"repository;TI"	step;TI"replacing;TI"module;TI"future;TI"uninstallation;TI"expect;TI"configuration;TI"how;TI"extension;TI"posted;TI"permissions;TI"minutes;TI"	tech;T
