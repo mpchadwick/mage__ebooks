@@ -6,10 +6,9 @@ require 'twitter_ebooks'
 class MyBot < Ebooks::Bot
   # Configuration here applies to all MyBots
   def configure
-    # Consumer details come from registering an app at https://dev.twitter.com/
-    # Once you have consumer details, use "ebooks auth" for new access tokens
-    self.consumer_key = '' # Your app consumer key
-    self.consumer_secret = '' # Your app consumer secret
+
+    self.consumer_key = ENV['TWITTER_CONSUMER_KEY']
+    self.consumer_secret = ENV['TWITTER_CONSUMER_SECRET']
 
     # Users to block instead of interacting with
     self.blacklist = ['tnietzschequote']
@@ -60,6 +59,6 @@ end
 
 # Make a MyBot and attach it to an account
 MyBot.new("mage__ebooks") do |bot|
-  bot.access_token = "" # Token connecting the app to this account
-  bot.access_token_secret = "" # Secret connecting the app to this account
+  bot.access_token = ENV['TWITTER_ACCESS_TOKEN']
+  bot.access_token_secret = ENV['TWITTER_ACCESS_TOKEN_SECRET']
 end
