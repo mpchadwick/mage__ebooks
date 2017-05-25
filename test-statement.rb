@@ -1,4 +1,4 @@
 require 'twitter_ebooks'
 
-model = Ebooks::Model.load("model/magento-dev-docs.model")
+model = Ebooks::Model.load("model/magento-all.model")
 puts model.make_statement(140)
