@@ -20,8 +20,7 @@ class MyBot < Ebooks::Bot
   def on_startup
     model = Ebooks::Model.load("model/magento-dev-docs.model")
     tweet(model.make_statement(140))
-    scheduler.every '24h' do
-      # Tweet something every 24 hours
+    scheduler.cron '0 6,18,22 * * *' do
       tweet(model.make_statement(140))
       # pictweet("hi", "cuteselfie.jpg")
     end
