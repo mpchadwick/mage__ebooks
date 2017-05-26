@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
@@ -5,7 +7,14 @@ client = Twitter::REST::Client.new do |config|
 	config.consumer_secret = ENV['TWITTER_CONSUMER_SECRET']
 end
 
-client.search("#realmagento", {result_type: "recent", since_id: 867581550879232001}).each do |tweet|
+args = Hash.new
+args["result_type"] = "recent"
+
+if ARGV[1]
+	args["since_id"] = ARGV[1]
+end
+
+client.search(ARGV[0], args).each do |tweet|
 	puts "# " + tweet.id.to_s
 	puts tweet.text
 end
