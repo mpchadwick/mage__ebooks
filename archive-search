@@ -1,5 +1,12 @@
 #!/usr/bin/env ruby
 
+# -------------
+# Usage
+# -------------
+# ./archive-search magento > corpus/magento-search.txt
+#
+# Use the second argument can be used to provide a since_id
+
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
