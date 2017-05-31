@@ -18,6 +18,7 @@ class MyBot < Ebooks::Bot
   end
 
   def on_startup
+    model = Ebooks::Model.load("model/magento-all.model")
     scheduler.cron '0 6,18,22 * * * America/New_York' do
       tweet(model.make_statement(140))
       # pictweet("hi", "cuteselfie.jpg")
